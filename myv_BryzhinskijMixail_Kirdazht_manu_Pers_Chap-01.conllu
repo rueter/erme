@@ -59,7 +59,7 @@
 1	Удомань	удома	NOUN	N	V|Der/NomAct|N|SP|Gen|Indef	5	advmod	_	Удомань
 2	пачк	пачк	ADP	Adp	Po	1	case	_	пачк
 3	нузякссто	нузякссто	ADV	Adv	Manner|Ela	5	advmod	_	нузякссто
-4	зярыяксть	зярыяксть	ADV	Adv	Qnt|Iter	5	advmod:multprf	_	зярыяксть
+4	зярыяксть	зярыяксть	ADV	Adv	Qnt|Mult	5	advmod:multprf	_	зярыяксть
 5	аволдась	аволдамс	VERB	V	Ind|Prt1|ScSg3	0	root	_	1:1.1,1|аволдась
 6	кедьсэнзэ	кедь	NOUN	N	Sem/Body_part|SP|Ine|PxSg3	5	obl	_	1:1.1,1|кедьсэнзэ
 7	,	,	PUNCT	CLB	CLB	8	punct	_	,
@@ -158,7 +158,7 @@
 3	рожодомозь	рожодомомс	Ger	Ger	Der/Озь	5	advcl	_	рожодомозь
 4	,	,	PUNCT	CLB	CLB	7	punct	_	,
 5	тона	тона	PRON	Pron	Dem|Sg|Nom|Indef	7	nsubj	_	1:1.7,13|тона
-6	эзизе	эзь	VERB	V	Neg|Ind|Prt1|ScSg3|OcSg3	7	aux	_	1:1.7,13|эзизе
+6	эзизе	эзь	AUX	V	Neg|Ind|Prt1|ScSg3|OcSg3	7	aux	_	1:1.7,13|эзизе
 7	редяяк	редямс	VERB	V	ConNeg|Foc/Гак	0	root	_	редяяк
 8	—	—	PUNCT	CLB	CLB	10	punct	_	—
 9	лелясь	леля	NOUN	N	Sem/Kin|Sg|Nom|Def	10	nsubj	_	лелясь
@@ -252,7 +252,7 @@
 # text[fin] = Ei hän edes sulkenut ovea perässään.
 1	Кенкшентькак	кенкш	NOUN	N	Sem/Inanim_Cnt|Sg|Gen|Def|Foc/Гак	4	obj	_	Кенкшентькак
 2	мельганзо	мельга	ADV	Adv	Prl|PxSg3	4	advmod	_	1:2.3,11|мельганзо
-3	эзизе	эзь	VERB	V	Neg|Ind|Prt1|ScSg3|OcSg3	4	aux	_	1:2.3,11|1:2.6,1|эзизе
+3	эзизе	эзь	AUX	V	Neg|Ind|Prt1|ScSg3|OcSg3	4	aux	_	1:2.3,11|1:2.6,1|эзизе
 4	сёлго	сёлгомс	VERB	V	ConNeg	0	root	_	сёлго
 5	.	.	PUNCT	CLB	CLB	4	punct	_	.
 
@@ -317,7 +317,7 @@
 10	толбандя	толбандя	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	9	nsubj	_	толбандя
 11	,	,	PUNCT	CLB	CLB	14	punct	_	,
 12	конань	кона	PRON	Pron	Rel|SP|Gen|Indef	14	obl	_	конань
-13	вакссо	вакссо	Po	Po	Sem/Spat|PoS|SP|Ine|Indef	12	case	_	вакссо
+13	вакссо	вакссо	ADP	Adp	Sem/Spat|PoS|SP|Ine|Indef	12	case	_	вакссо
 14	котьмась	котьмамс	VERB	V	Ind|Prt1|ScSg3	9	conj	_	1:3.1,15|котьмась
 15	авазо	ава	NOUN	N	Sem/Kin|Sg|Nom|PxSg3	14	nsubj	_	1:2.7,1|авазо
 16	.	.	PUNCT	CLB	CLB	9	punct	_	.
@@ -402,7 +402,7 @@
 # text = Эзинзе маряяк .
 # text[eng] = He had not even heard them.
 # text[fin] = Eipä hän ollut kuullutkaan.
-1	Эзинзе	эзь	VERB	V	Neg|Ind|Prt1|ScSg3|OcPl3	2	aux	_	1:2.7,1|1:3.4,7|Эзинзе
+1	Эзинзе	эзь	AUX	V	Neg|Ind|Prt1|ScSg3|OcPl3	2	aux	_	1:2.7,1|1:3.4,7|Эзинзе
 2	маряяк	марямс	VERB	V	ConNeg|Foc/Гак	0	root	_	маряяк
 3	.	.	PUNCT	CLB	CLB	2	punct	_	.
 
@@ -413,7 +413,7 @@
 1	Лопине	Лопа	NOUN	N	Prop|Sem/Ant_Fem|Der/Ыне|N|Sg|Nom|Indef	2	nsubj	_	Лопине
 2	кекшсь	кекшемс	VERB	V	Ind|Prt1|ScSg3	0	root	_	1:4.1,1|кекшсь
 3	аванзо	ава	NOUN	N	Sem/Kin|Sg|Gen|PxSg3	2	obl	_	1:4.1,1|аванзо
-4	удалов	удало	Po	Po	Sem/Spat|Po|Lat|Indef	3	case	_	удалов
+4	удалов	удало	ADP	Adp	Sem/Spat|Po|Lat|Indef	3	case	_	удалов
 5	ды	ды	CCONJ	CC	CC	8	cc	_	ды
 6	ансяк	ансяк	ADV	Adv	Adv	8	advmod	_	ансяк
 7	прянзо	пря	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	8	obj	_	1:4.1,1|прянзо
@@ -514,7 +514,7 @@
 4	мейле	мейле	ADV	Adv	Temp	8	advcl	_	мейле
 5	неть	не	PRON	Pron	Dem|Pl|Nom|Indef	6	amod	_	неть
 6	тевтне	тев	NOUN	N	Sem/Inanim_Cnt|Pl|Nom|Def	8	nsubj	_	тевтне
-7	ульнесть	ульнемс	VERB	V	Ind|Prt1|ScPl3	8	aux	_	1:5.6,6|ульнесть
+7	ульнесть	ульнемс	AUX	V	Ind|Prt1|ScPl3	8	cop	_	1:5.6,6|ульнесть
 8	сонзэ	сон	PRON	Pron	Pers|Sg3|Gen|PxSg3	0	root	_	1:4.2,9|сонзэ
 9	—	—	PUNCT	CLB	CLB	10	punct	_	—
 10	Кечаень	Кечай	NOUN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	8	appos	_	Кечаень
@@ -574,15 +574,13 @@
 9	автизе	автемс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	0	root	_	1:6.1,7|1:6.1,10|автизе
 10	кургонзо	курго	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	9	obj	_	1:6.1,7|кургонзо
 11	,	,	PUNCT	CLB	CLB	12	punct	_	,
-12	венстизе	венстямс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	9	conj	_	1:6.1,7|1:6.1,15|венстизе
-13	-	-	PUNCT	PUNCT	PUNCT.Cmp	14	punct	_	-
-14	таргатызе	таргатомс	VERB	V	IV|Ind|Prt1|ScSg3|OcSg3	12	conj	_	таргатызе
-15	рунгонзо	рунго	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	12	obj	_	1:6.1,7|рунгонзо
-16	—	—	PUNCT	CLB	CLB	17	punct	_	—
-17	пансесь	пансемс	VERB	V	Ind|Prt1|ScSg3	9	conj	_	1:6.1,7|пансесь
-18	кадовикс	кадовикс	ADJ	A	Der/V_Ыкс|A|Sg|Nom|Indef	19	amod	_	кадовикс
-19	удоманть	удома	NOUN	N	Sem/Inanim_Cnt|Sg|Gen|Def	17	obj	_	удоманть
-20	.	.	PUNCT	CLB	CLB	9	punct	_	.
+12	венстизе-таргатызе	венстямс-таргатомс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	9	conj	_	1:6.1,7|1:6.1,15|венстизе-таргатызе
+13	рунгонзо	рунго	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	12	obj	_	1:6.1,7|рунгонзо
+14	—	—	PUNCT	CLB	CLB	15	punct	_	—
+15	пансесь	пансемс	VERB	V	Ind|Prt1|ScSg3	9	conj	_	1:6.1,7|пансесь
+16	кадовикс	кадовикс	ADJ	A	Der/V_Ыкс|A|Sg|Nom|Indef	17	amod	_	кадовикс
+17	удоманть	удома	NOUN	N	Sem/Inanim_Cnt|Sg|Gen|Def	15	obj	_	удоманть
+18	.	.	PUNCT	CLB	CLB	9	punct	_	.
 
 #sent_id = chapID01:paragID6:sentID2
 # text = Сельмень ёзазь , мольсь весень ваксс .
@@ -593,7 +591,7 @@
 3	,	,	PUNCT	CLB	CLB	2	punct	_	,
 4	мольсь	молемс	VERB	V	Ind|Prt1|ScSg3	0	root	_	1:6.1,7|мольсь
 5	весень	весе	PRON	Pron	Indef|Gen	4	obl	_	весень
-6	ваксс	вакссо	Po	Po	Sem/Spat|PoS|SP|Ill|Indef	5	case	_	ваксс
+6	ваксс	вакссо	ADP	Adp	Sem/Spat|PoS|SP|Ill|Indef	5	case	_	ваксс
 7	.	.	PUNCT	CLB	CLB	4	punct	_	.
 
 #sent_id = chapID01:paragID6:sentID3
@@ -660,7 +658,7 @@
 17	эзть	эзть	VERB	V	Neg|Prt1|ScPl3	18	aux	_	эзть
 18	юта	ютамс	VERB	V	ConNeg	12	ccomp	_	юта
 19	пилензэ	пиле	NOUN	N	Sem/Body_part|Pl|Gen|PxSg3	18	obl	_	1:8.1,10|пилензэ
-20	вакска	вакссо	Po	Po	Sem/Spat|Po|SP|Prl|Indef	19	case	_	вакска
+20	вакска	вакссо	ADP	Adp	Sem/Spat|Po|SP|Prl|Indef	19	case	_	вакска
 21	ды	ды	CCONJ	CC	CC	22	cc	_	ды
 22	козкстась	козкстамс	VERB	V	Ind|Prt1|ScSg3	6	conj	_	1:8.1,10|козкстась
 23	—	—	PUNCT	CLB	CLB	24	punct	_	—
@@ -752,19 +750,17 @@
 28	пакарь	пакарь	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	6	nsubj	_	пакарь
 29	—	—	PUNCT	CLB	CLB	31	punct	_	—
 30	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	31	nsubj	_	1:10.2,9|сынь
-31	лездасть	лездамс	VERB	V	Ind|Prt1|ScPl3	6	conj	_	1:10.2,9|лездасть
-32	-	-	PUNCT	PUNCT	PUNCT.Cmp	33	punct	_	-
-33	ванстасть	ванстамс	VERB	V	Ind|Prt1|ScPl3	31	conj	_	ванстасть
-34	эрьва	эрьва	DET	Det	Sg|Nom|Indef	34	fixed	_	эрьва
-35	кодамо	кодамо	PRON	Pron	Indef|Sg|Nom	36	amod	_	кодамо
-36	чопачадо	чопача	NOUN	N	Sem/Inanim_Cnt|SP|Abl|Indef	31	obl	_	чопачадо
-37	ды	ды	CCONJ	CC	CC	42	cc	_	ды
-38	сынстемест	сынсь	PRON	Pron	Refl|Pl3|Abe|3Pl	42	obl	_	1:10.2,9|сынстемест
-39	кудо	кудо	NOUN	N	Sem/Build|N|Sg|Nom|Indef	42	obl	_	кудо
-40	маластояк	маласто	Po	Po	Der/стО|Po|Foc/Гак	39	case	_	маластояк
-41	эзь	эзь	VERB	V	Neg|Prt1|ScSg3	42	aux	_	1:8.1,10|эзь
-42	сыргсе	сыргсемс	VERB	V	ConNeg	6	conj	_	сыргсе
-43	.	.	PUNCT	CLB	CLB	6	punct	_	.
+31	лездасть-ванстасть	лездамс-ванстамс	VERB	V	Ind|Prt1|ScPl3	6	conj	_	1:10.2,9|лездасть
+32	эрьва	эрьва	DET	Det	Sg|Nom|Indef	33	fixed	_	эрьва
+33	кодамо	кодамо	PRON	Pron	Indef|Sg|Nom	34	amod	_	кодамо
+34	чопачадо	чопача	NOUN	N	Sem/Inanim_Cnt|SP|Abl|Indef	31	obl	_	чопачадо
+35	ды	ды	CCONJ	CC	CC	40	cc	_	ды
+36	сынстемест	сынсь	PRON	Pron	Refl|Pl3|Abe|3Pl	40	obl	_	1:10.2,9|сынстемест
+37	кудо	кудо	NOUN	N	Sem/Build|N|Sg|Nom|Indef	40	obl	_	кудо
+38	маластояк	маласто	Po	Po	Der/стО|Po|Foc/Гак	37	case	_	маластояк
+39	эзь	эзь	AUX	V	Neg|Prt1|ScSg3	40	aux	_	1:8.1,10|эзь
+40	сыргсе	сыргсемс	VERB	V	ConNeg	6	conj	_	сыргсе
+41	.	.	PUNCT	CLB	CLB	6	punct	_	.
 
 #sent_id = chapID01:paragID10:sentID3
 # text = Кирьгазонзо каизе тетянзо казненть — овтонь кавто уро пейтнень .
@@ -839,7 +835,7 @@
 # text[eng] = So once, quite unexpectedly, Kechai's father had handed him the two bear's teeth.
 # text[fin] = Senpä takia kerran, täysin odottamatta, isä oli ojentanut hänelle kaksi karhunkulmahammasta.
 1	Секс	секс	ADV	Adv	Tra	8	advmod	_	Секс
-2	весть	весть	NUM	Num	Der/Adv|Adv|Iter	8	advmod:multprf	_	весть
+2	весть	весть	NUM	Num	Der/Adv|Adv|Mult	8	advmod:multprf	_	весть
 3	,	,	PUNCT	CLB	CLB	6	punct	_	,
 4	овсе	овсе	ADV	Adv	Adv	6	advmod	_	овсе
 5	апак	апак	PART	Pcle	Neg	6	aux:neg	_	апак
@@ -904,7 +900,7 @@
 19	,	,	PUNCT	CLB	CLB	23	punct	_	,
 20	зярс	зярс	ADV	Adv	Der/Ill|Adv|Temp	23	advmod	_	зярс
 21	тона	тона	PRON	Pron	Dem|Sg|Nom|Indef	23	nsubj	_	1:10.9,16|тона
-22	эзь	эзь	VERB	V	Neg|Prt1|ScSg3	23	aux	_	1:10.9,22|эзь
+22	эзь	эзь	AUX	V	Neg|Prt1|ScSg3	23	aux	_	1:10.9,22|эзь
 23	юта	ютамс	VERB	V	ConNeg	15	advcl	_	юта
 24	пеенть	пей	NOUN	N	Sem/Inanim_Cnt|Sg|Gen|Def	23	obl	_	пеенть
 25	пачк	пачк	ADP	Adp	Po	24	case	_	пачк
