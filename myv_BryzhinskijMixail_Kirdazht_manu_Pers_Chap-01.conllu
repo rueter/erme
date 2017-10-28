@@ -30,7 +30,7 @@
 # text = Кечаень сыргозтизь налкставтыця карвот .
 # text[eng] = Kechai was awoken by annoying flies.
 # text[fin] = Ketšai heräsi ikäviin kärpäsiin.
-1	Кечаень	Кечай	NOUN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	2	obj	_	Кечаень
+1	Кечаень	Кечай	PROPN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	2	obj	_	Кечаень
 2	сыргозтизь	сыргозтемс	VERB	V	TV|Ind|Prt1|ScPl3|OcSg3	0	root	_	1:1.1,1|1:1.1,4|сыргозтизь
 3	налкставтыця	налкставтомс	PRC	Prc	TV|Der/NomAg|Sg|Nom|Indef	4	amod	налкставтыця
 4	карвот	карво	NOUN	N	Sem/Ani|Pl|Nom|Indef	2	nsubj	_	карвот
@@ -40,7 +40,7 @@
 # text = Сынь кутькавтозь якасть чамаумарьганзо , сельме кертнева , эцесть пилес .
 # text[eng] = They tickled his face and eyelids as they walked over them and poked into his ears.
 # text[fin] = Ne kutisten kävelivät hänen poskillaan, silmäloimillaan ja menivät suoraan korviinkin.
-1	Сынь	сынь	PRON	Pron	Pers|Pl3|Nom	3	nsubj	_	1:1.1,4|Сынь
+1	Сынь	сынь	PRON	Pron	Pers|Pl3|Nom	3	aux:subj	_	1:1.1,4|Сынь
 2	кутькавтозь	кутькавтомс	Ger	Ger	V|TV|Der/Озь|Ger|Sg|Nom|Indef	3	advcl	_	кутькавтозь
 3	якасть	якамс	VERB	V	Ind|Prt1|ScPl3	0	root	_	1:1.1,4|якасть
 4	чамаумарьганзо	чамаумарь	NOUN	N	Sem/Body_part|SP|Prl|PxSg3	3	obl	_	1:1.1,1|чамаумарьганзо
@@ -212,7 +212,7 @@
 # text = Кечай урнозевсь верьгизэкс ды венстинзе кавонест кедензэ , снартнесь кундамо сазорканть .
 # text[eng] = Kechai began howling like a wolf and reached out his two hands to try and catch his little sister.
 # text[fin] = Poika ulvahti kuin susi ja ojensi kätensä, ja yritti saada pikku siskonsa kiinni.
-1	Кечай	Кечай	NOUN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	2	nsubj	_	Кечай
+1	Кечай	Кечай	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	2	nsubj	_	Кечай
 2	урнозевсь	урнозевемс	VERB	V	Inch|Ind|Prt1|ScSg3	0	root	_	1:2.3,1|урнозевсь
 3	верьгизэкс	верьгиз	NOUN	N	Sem/Inanim_Cnt|SP|Tra|Indef	2	xcomp	_	верьгизэкс
 4	ды	ды	CCONJ	CC	CC	5	cc	_	ды
@@ -260,7 +260,7 @@
 # text = Кечай штавтызе лангстонзо вельтямо чова кенденть ды ношкстась мельганзо .
 # text[eng] = Kechai threw off the thin skin covers and hurried after her.
 # text[fin] = Ketšai repesi ohuen huopapeiton päältään ja kiirehti peräänsä.
-1	Кечай	Кечай	NOUN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	2	nsubj	_	Кечай
+1	Кечай	Кечай	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	2	nsubj	_	Кечай
 2	штавтызе	штавтомс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	0	root	_	1:2.7,1|1:2.7,6|штавтызе
 3	лангстонзо	ланго	ADP	Adp	Sem/Relat|N|SP|Ela|PxSg3|Der/Adv|Adv	2	advmod	_	1:2.7,1|лангстонзо
 4	вельтямо	вельтямо	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	6	amod	_	вельтямо
@@ -374,7 +374,7 @@
 # text[eng] = It was not that they were doing work or not, they had gotten their faces all covered with soot.
 # text[fin] = Oli tämä sitten työ tai ei, he olivat saaneet  kasvonsa sydellä mustiksi.
 1	Тев	тев	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	3	obj	_	Тев
-2	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	3	nsubj	_	1:3.2,1|сынь
+2	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	3	aux:subj	_	1:3.2,1|сынь
 3	тейсть	теемс	VERB	V	Ind|Prt1|ScPl3	0	root	_	1:3.2,1|тейсть
 4	эли	эли	CCONJ	CC	CC	5	cc	_	эли
 5	эзть	эзть	VERB	V	Neg|Prt1|ScPl3	3	conj	_	1:3.2,1|эзть
@@ -462,7 +462,7 @@
 4	эль	эль	ADV	Adv	Adv	5	adv	_	эль
 5	нежеди	нежедемс	VERB	V	Ind|Prs|ScSg3	0	root	_	1:5.3,1|нежеди
 6	,	,	PUNCT	CLB	CLB	10	punct	_	,
-7	сон	сон	PRON	Pron	Pers|Sg3|Nom	10	nsubj	_	1:4.2,9|сон
+7	сон	сон	PRON	Pron	Pers|Sg3|Nom	10	aux:subj	_	1:4.2,9|сон
 8	яла	яла	ADV	Adv	Temp	10	advmod	_	яла
 9	кенде	кенде	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	10	obj	_	кенде
 10	матры	матрамс	VERB	V	Ind|Prs|ScSg3	5	conj	_	1:4.2,9|матры
@@ -517,7 +517,7 @@
 7	ульнесть	ульнемс	AUX	V	Ind|Prt1|ScPl3	8	cop	_	1:5.6,6|ульнесть
 8	сонзэ	сон	PRON	Pron	Pers|Sg3|Gen|PxSg3	0	root	_	1:4.2,9|сонзэ
 9	—	—	PUNCT	CLB	CLB	10	punct	_	—
-10	Кечаень	Кечай	NOUN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	8	appos	_	Кечаень
+10	Кечаень	Кечай	PROPN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	8	appos	_	Кечаень
 11	.	.	PUNCT	CLB	CLB	8	punct	_	.
 
 #sent_id = chapID01:paragID5:sentID7
@@ -569,7 +569,7 @@
 4	прянзо	пря	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	5	obj	_	1:6.1,7|прянзо
 5	разедезь	разедемс	Ger	Ger	Der/Озь	9	advcl	_	разедезь
 6	,	,	PUNCT	CLB	CLB	5	punct	_	,
-7	Кечай	Кечай	NOUN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	9	nsubj	_	Кечай
+7	Кечай	Кечай	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	9	nsubj	_	Кечай
 8	марявиксстэ	марявикс	ADJ	A	DeverbalS|SP|Ela|Indef	9	advmod	_	марявиксстэ
 9	автизе	автемс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	0	root	_	1:6.1,7|1:6.1,10|автизе
 10	кургонзо	курго	NOUN	N	Sem/Body_part|Sg|Gen|PxSg3	9	obj	_	1:6.1,7|кургонзо
@@ -622,7 +622,7 @@
 2	Таго	таго	ADV	Adv	Temp	4	advmod	_	Таго
 3	сёвоньс	сёвонь	NOUN	N	Sem/Inanim_NCnt|SP|Ill|Indef	4	advmod	_	сёвоньс
 4	молемс	молемс	VERB	V	Inf	0	root	_	молемс
-5	эряви	эрявомс	VERB	V	IV|Ind|Prs|ScSg3	4	aux	_	эряви
+5	эряви	эрявомс	AUX	V	IV|Ind|Prs|ScSg3	4	aux	_	эряви
 6	,	,	PUNCT	CLB	CLB	10	punct	_	,
 7	—	—	PUNCT	CLB	CLB	10	punct	_	—
 8	прок	прок	PART	Pcle	Pcle	10	advmod	_	прок
@@ -648,7 +648,7 @@
 7	удомадонть	удома	NOUN	N	Sem/Inanim_Cnt|Sg|Abl|Def	8	obl	_	удомадонть
 8	казякадозь	казякадомс	Ger	Ger	Der/Озь	9	advcl	_	казякадозь
 9	вайгелензэ	вайгель	NOUN	N	Sem/Inanim_Cnt|Sg|Gen|PxSg3	6	obj	_	1:8.1,10|вайгелензэ
-10	Кечай	Кечай	NOUN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	6	nsubj	_	Кечай
+10	Кечай	Кечай	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	6	nsubj	_	Кечай
 11	,	,	PUNCT	CLB	CLB	12	punct	_	,
 12	невтизе	невтемс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	6	conj	_	1:8.1,10|1:8.1,18|невтизе
 13	,	,	PUNCT	CLB	CLB	18	punct	_	,
@@ -695,7 +695,7 @@
 4	зярс	зярс	ADV	Adv	Der/Ill|Adv|Temp	5	advmod	_	зярс
 5	пии	пиемс	VERB	V	Ind|Prs|ScSg3	2	conj	_	1:9.3,6|пии
 6	ямось	ям	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Def	5	nsubj	_	ямось
-7	сон	сон	PRON	Pron	Pers|Sg3|Nom	8	nsubj	_	1:8.1,10|сон
+7	сон	сон	PRON	Pron	Pers|Sg3|Nom	8	aux:subj	_	1:8.1,10|сон
 8	кенери	кенеремс	VERB	V	Ind|Prs|ScSg3	0	root	_	1:8.1,10|кенери
 9	чийнеме	чийнемс	VERB	V	Inf|Loc	8	xcomp	_	чийнеме
 10	Кокша	кокша	ADJ	A	Sg|Nom|Indef	11	flat	_	Кокша
@@ -749,7 +749,7 @@
 27	пей	пей	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	28	compound	_	пей
 28	пакарь	пакарь	NOUN	N	Sem/Inanim_Cnt|Sg|Nom|Indef	6	nsubj	_	пакарь
 29	—	—	PUNCT	CLB	CLB	31	punct	_	—
-30	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	31	nsubj	_	1:10.2,9|сынь
+30	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	31	aux:subj	_	1:10.2,9|сынь
 31	лездасть-ванстасть	лездамс-ванстамс	VERB	V	Ind|Prt1|ScPl3	6	conj	_	1:10.2,9|лездасть
 32	эрьва	эрьва	DET	Det	Sg|Nom|Indef	33	fixed	_	эрьва
 33	кодамо	кодамо	PRON	Pron	Indef|Sg|Nom	34	amod	_	кодамо
@@ -862,7 +862,7 @@
 # text = Сон сонсь умбодсь эйзэст варинеть , истя , кода тейнекшнить весе .
 # text[eng] = He bored little holes in them by himself, just like everyone does.
 # text[fin] = Sitten hän itse kaiveli niihin reiät, niin kuin kaikki tekevätkin.
-1	Сон	сон	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	1:10.7,2|Сон
+1	Сон	сон	PRON	Pron	Pers|Sg3|Nom	3	aux:subj	_	1:10.7,2|Сон
 2	сонсь	сонсь	PRON	Pron	Refl|Sg3|Nom	3	nsubj	_	1:10.7,2|сонсь
 3	умбодсь	умбодомс	VERB	V	Ind|Prt1|ScSg3	0	root	_	1:10.7,2|умбодсь
 4	эйзэст	эйс	PRON	Pron	Relational|Ill|PxPl3	3	obl	_	1:10.6,13|эйзэст

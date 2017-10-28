@@ -30,53 +30,53 @@
 #partTitle>КИЯК ЭЗЬ УЧНЕ ТЕНЬ</partTitle>
 #sent_id = partID1:chapID1:paragID1:sentID1: pgNo="5"
 # text = Чись ульнесь крещениянь сочельник.
-1	Чись	чи	NOUN	N	Sg|Nom|Def	4	nsubj:cop	_	_
-2	ульнесь	ульнемс	AUX	V	IV|Ind|Prt1|ScSg3	4	cop	_	1-1:1.1,1
+1	Чись	чи	NOUN	N	Sg|Nom|Def	4	nsubj:cop	_	Gloss=day
+2	ульнесь	ульнемс	AUX	V	IV|Ind|Prt1|ScSg3	4	cop	_	1-1:1.1,1|Gloss=be
 3	крещениянь	крещения	NOUN	N	SP|Gen|Indef	4	nmod:poss	_	_
 4	сочельник	сочельник	NOUN	N	Sg|Nom|Indef	0	root	_	_
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 #sent_id = partID1:chapID1:paragID1:sentID2: pgNo="5"
 # text = Чавсь чова баяга — светой ведень кис тердсь Нал велень ломанть.
-1	Чавсь	чавомс	VERB	V	TV|Ind|Prt1|ScSg3	0	root	_	1-1:1.2,3
-2	чова	чова	ADJ	A	Attr	3	amod	_	_
-3	баяга	баяга	NOUN	N	Sg|Nom|Indef	1	obj	_	_
+1	Чавсь	чавомс	VERB	V	TV|Ind|Prt1|ScSg3	0	root	_	1-1:1.2,3|Gloss=chime
+2	чова	чова	ADJ	A	Attr	3	amod	_	Gloss=high-pitched
+3	баяга	баяга	NOUN	N	Sg|Nom|Indef	1	obj	_	Gloss=bell
 4	—	—	PUNCT	_	_	1	punct	_	_
-5	светой	светой	NOUN	N	Sg|Nom|Indef	6	amod	_	_
-6	ведень	ведь	NOUN	N	SP|Gen|Indef	8	obl	_	_
-7	кис	кис	ADP	Adp	Po	6	case	_	_
-8	тердсь	тердемс	VERB	V	TV|Ind|Prt1|ScSg3	1	conj	_	1-1:1.2,3
+5	светой	светой	NOUN	N	Sg|Nom|Indef	6	amod	_	Gloss=holy
+6	ведень	ведь	NOUN	N	SP|Gen|Indef	8	obl	_	Gloss=water
+7	кис	кис	ADP	Adp	Po	6	case	_	Gloss=for
+8	тердсь	тердемс	VERB	V	TV|Ind|Prt1|ScSg3	1	conj	_	1-1:1.2,3|call
 9	Нал	нал	NOUN	N	Sg|Nom|Indef	10	flat	_	_
-10	велень	веле	NOUN	N	Sem/Plc|SP|Gen|Indef	11	nmod:poss	_	_
-11	ломанть	ломань	NOUN	N	Pl|Nom|Indef	8	obj	_	_
+10	велень	веле	NOUN	N	Sem/Plc|SP|Gen|Indef	11	nmod:poss	_	Gloss=village
+11	ломанть	ломань	NOUN	N	Pl|Nom|Indef	8	obj	_	Gloss=people
 12	.	.	PUNCT	CLB	_	1	punct	_	_
 
 #sent_id = partID1:chapID1:paragID2:sentID1: pgNo="5"
 # text = Лужаня вайгелезэ ацазь ацавсь ловонть ланга, прок лайшесь.
 1	Лужаня	лужаня	ADJ	A	Attr	2	amod	_	_
-2	вайгелезэ	вайгель	NOUN	N	Sg|Nom|PxSg3	4	nsubj	_	1-1:1.2,3
+2	вайгелезэ	вайгель	NOUN	N	Sg|Nom|PxSg3	4	nsubj	_	1-1:1.2,3|Gloss=sound
 3	ацазь	ацамс	VERB	V	IV|Der/Озь|Ger	4	advmod	_	_
 4	ацавсь	ацавомс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:2.1,2
-5	ловонть	лов	NOUN	N	Sg|Gen|Def	4	obl	_	_
-6	ланга	ланга	ADP	Adp	Po|Prl	5	case	_	_
+5	ловонть	лов	NOUN	N	Sg|Gen|Def	4	obl	_	Gloss=snow
+6	ланга	ланга	ADP	Adp	Po|Prl	5	case	_	Gloss=on
 7	,	,	PUNCT	CLB	_	4	punct	_	_
-8	прок	прок	SCONJ	CS	_	9	mark	_	_
-9	лайшесь	лайшемс	VERB	V	TV|Ind|Prt1|ScSg3	4	conj	_	1-1:2.1,2
+8	прок	прок	SCONJ	CS	_	9	mark	_	Gloss=as.though
+9	лайшесь	лайшемс	VERB	V	TV|Ind|Prt1|ScSg3	4	conj	_	1-1:2.1,2|Gloss=wail
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 #sent_id = partID1:chapID1:paragID3:sentID1: pgNo="5"
 # text = Якшамкань Урван лавкасто сыль.
 1	Якшамкань	Якшамка	PROPN	N	Prop|Sem/Plc|SP|Gen|Indef	2	nmod:poss	_	_
 2	Урван	Урван	PROPN	N	Prop|Sem/Ant_Mal|SP|Nom|Indef	4	nsubj	_	_
-3	лавкасто	лавка	NOUN	N	Sem/Plc|SP|Ela|Indef	4	obl	_	_
-4	сыль	самс	VERB	V	IV|Ind|Prt2|ScSg3	0	root	_	1-1:3.1,2
+3	лавкасто	лавка	NOUN	N	Sem/Plc|SP|Ela|Indef	4	obl	_	Gloss=shop
+4	сыль	самс	VERB	V	IV|Ind|Prt2|ScSg3	0	root	_	1-1:3.1,2|Gloss=come
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 #sent_id = partID1:chapID1:paragID3:sentID2: pgNo="5"
 # text = Ваксканзо церьковав ютась Валдай Рамконь Груня.
-1	Ваксканзо	вакска	ADV	Adv	Prl|PxSg3	3	advmod	_	1-1:3.1,2
-2	церьковав	церькова	NOUN	N	Sem/Plc|SP|Lat|Indef	3	advmod	_	_
-3	ютась	ютамс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:3.2,6
+1	Ваксканзо	вакска	ADV	Adv	Prl|PxSg3	3	advmod	_	1-1:3.1,2|Gloss=past
+2	церьковав	церькова	NOUN	N	Sem/Plc|SP|Lat|Indef	3	advmod	_	Gloss=church
+3	ютась	ютамс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:3.2,6|Gloss=go
 4	Валдай	Валдай	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef	5	flat:name	_	_
 5	Рамконь	Рамко	PROPN	N	Sem/Ant_Mal|Prop|SP|Gen|Indef	6	nmod:poss	_	_
 6	Груня	Груня	PROPN	N	Prop|Sem/Ant_Fem|Sg|Nom|Indef	3	nsubj	_	_
@@ -158,7 +158,7 @@
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 8	—	—	PUNCT	_	_	9	punct	_	_
 9	кевкстизе	кевкстемс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	6	parataxis	_	1-1:4.1,12|1-1:5.1,11|Gloss=ask
-10	сон	сон	PRON	Pron	Pers|Sg3|Nom	9	nsubj	_	1-1:4.1,12|Gloss=he
+10	сон	сон	PRON	Pron	Pers|Sg3|Nom	9	aux:subj	_	1-1:4.1,12|Gloss=he
 11	Грунянь	Груня	PROPN	N	Sem/Ant_Fem|Prop|SP|Gen|Indef	9	obj	_	Gloss=Grunya
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -186,7 +186,8 @@
 4	?	?	PUNCT	CLB	_	3	punct	_	_
 
 #sent_id = partID1:chapID1:paragID8:sentID1: pgNo="5"
-# text = — Кудо шли." eng="She's cleaning the house.
+# text = — Кудо шли."
+# text[eng] = She's cleaning the house.
 1	—	—	PUNCT	_	_	3	punct	_	_
 2	Кудо	кудо	NOUN	N	Sem/Plc|Sg|Nom|Indef	3	obj	_	Gloss=home
 3	шли	шлямс	VERB	V	TV|Ind|Prs|ScSg3	0	root	_	1-1:7.1,2|Gloss=wash
@@ -194,6 +195,7 @@
 
 #sent_id = partID1:chapID1:paragID9:sentID1: pgNo="5"
 # text = «Тейтересь тетянзо тюссо.
+# text[eng] = The girl looked like her father.
 1	«	PUNCT	_	LEFT	_	4	punct	_	_
 2	Тейтересь	тейтерь	NOUN	N	Sg|Nom|Def	4	nsubj:cop	_	Gloss=girl
 3	тетянзо	тетя	NOUN	N	Sem/Kin|Sg|Gen|PxSg3	4	nmod:poss	_	Gloss=father
@@ -202,6 +204,7 @@
 
 #sent_id = partID1:chapID1:paragID9:sentID2: pgNo="5"
 # text = Рамкояк одсто истямо жо мазыль.
+# text[eng] = Ramko was just as handsome when he was young, too.
 1	Рамкояк	Рамко	PROPN	N	Sem/Ant_Mal|Prop|Sg|Nom|Indef|Foc/Гак	5	nsubj:cop	_	Gloss=Ramko
 2	одсто	одсто	ADV	Adv	Temp|Ela	5	advmod	_	Gloss=when.young
 3	истямо	истямо	PRON	Pron	Dem|Dep	5	advmod	_	Gloss=in.that.way
@@ -211,8 +214,9 @@
 
 #sent_id = partID1:chapID1:paragID9:sentID3: pgNo="5"
 # text = Нейгак цёрась лангс ваномс ён,» — яла арсесь Урван.
+# text[eng] = Even now the man is good to look at, - Urvan kept thinking.
 1	Нейгак	ней	ADV	Adv	Temp|Foc/Гак	5	advmod	_	Gloss=now
-2	цёрась	цёра	NOUN	N	Sg|Nom|Def	5	nsubj:cop	_	Gloss=young.man
+2	цёрась	цёра	NOUN	N	Sg|Nom|Def	5	nsubj:cop	_	Gloss=man
 3	лангс	лангс	ADV	Adv	Ill	4	advmod	_	Gloss=at
 4	ваномс	ваномс	VERB	V	IV|Inf	5	advcl	_	Gloss=look
 5	ён	ён	ADJ	A	Sg|Nom|Indef|Der/Cop|Prs|ScSg3	0	root	_	1-1:9.3,2|Gloss=good
@@ -248,7 +252,7 @@
 20	ведраст	ведра	NOUN	N	Pl|Gen|PxPl3	21	obj	_	1-1:10.1,24|Gloss=bucket
 21	кальдерьгавтыця	кальдерьгавтыця	Act	_	DemPrc|Der/V2A|Sg|Nom|Indef	24	amod	_	Gloss=clang
 22	ды	ды	CCONJ	CC	_	21	cc	_	Gloss=and
-23	чикордовтыця	чикордовтомс	VERB	V	TV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	21	conj	_	Gloss=creak
+23	чикордовтыця	чикордовтомс	VERB	V	TV|Der/NomAg|N|Sg|Nom|Indef	21	conj	_	Gloss=creak
 24	цёрат	цёра	NOUN	N	Pl|Nom|Indef	17	conj	_	Gloss=young.man
 25	.	.	PUNCT	CLB	_	12	punct	_	_
 
@@ -290,7 +294,7 @@
 
 #sent_id = partID1:chapID1:paragID11:sentID2: pgNo="5"
 # text = Сон штадонь прят.
-1	Сон	сон	PRON	Pron	Pers|Sg3|Nom	3	nsubj:cop	_	1-1:11.1,18|Gloss=he
+1	Сон	сон	PRON	Pron	Pers|Sg3|Nom	3	aux:subj	_	1-1:11.1,18|Gloss=he
 2	штадонь	штадонь	ADJ	A	Attr	3	amod	_	Gloss=bared
 3	прят	пря	NOUN	N	Pl|Nom|Indef	0	root	_	Gloss=head
 4	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -319,10 +323,10 @@
 
 #sent_id = partID1:chapID1:paragID11:sentID5: pgNo="6"
 # text = Ожанзо кенере пакарь витьс илештязь ды кедензэ кепедезь, буто пленс прянзо максыцянь.
-1	Ожанзо	ожа	NOUN	N	Pl|Nom|PxSg3	5	nsubj	_	1-1:11.4,6
+1	Ожанзо	ожа	NOUN	N	Pl|Nom|PxSg3	5	nsubj	_	1-1:11.4,6|Gloss=sleeve
 2	кенере	кенере	NOUN	N	Sg|Nom|Indef	3	compound	_	_
 3	пакарь	пакарь	NOUN	N	Sg|Nom|Indef	5	obl	_	_
-4	витьс	вить	NOUN	N	SP|Ill|Indef	3	case	_	_
+4	витьс	видьс	ADP	Adp	Po|Ill	3	case	_	_
 5	илештязь	илештямс	VERB	V	TV|Der/Озь|Ger|Clt/Cop|Prs|ScSg3	0	root	_	_
 6	ды	ды	CCONJ	CC	_	8	cc	_	_
 7	кедензэ	кедь	Hom1	_	N|Pl|Nom|PxSg3	8	nsubj	_	1-1:11.4,6
@@ -331,7 +335,7 @@
 10	буто	буто	PART	Pcle	_	13	mark	_	_
 11	пленс	плен	NOUN	N	SP|Ill|Indef	13	obl	_	_
 12	прянзо	пря	NOUN	N	Sem/Plc|Sg|Gen|PxSg3	13	obj	_	1-1:11.5,13
-13	максыцянь	максомс	VERB	V	TV|Der/Ыця|Der/NomAg|N|SP|Gen|Indef	5	advcl	_	_
+13	максыцянь	максомс	VERB	V	TV|Der/NomAg|N|SP|Gen|Indef	5	advcl	_	_
 14	.	.	PUNCT	CLB	_	5	punct	_	_
 
 #sent_id = partID1:chapID1:paragID11:sentID6: pgNo="6"
@@ -349,43 +353,43 @@
 
 #sent_id = partID1:chapID1:paragID11:sentID7: pgNo="6"
 # text = Друк мендявсть аванть пильгензэ ды кармась кевереме сон крута крыльцянь лазтнэнь ланга.
-1	Друк	друк	ADV	Adv	Temp	2	advmod	_	_
-2	мендявсть	мендявомс	VERB	V	IV|Ind|Prt1|ScPl3	0	root	_	1-1:11.7,4
-3	аванть	ава	NOUN	N	Sem/Hum|Sg|Gen|Def	4	nmod:poss	_	_
+1	Друк	друк	ADV	Adv	Temp	2	advmod	_	Gloss=unexpectedly
+2	мендявсть	мендявомс	VERB	V	IV|Ind|Prt1|ScPl3	0	root	_	1-1:11.7,4|Gloss=bend
+3	аванть	ава	NOUN	N	Sem/Hum|Sg|Gen|Def	4	nmod:poss	_	Gloss=woman
 4	пильгензэ	пильгензэ	N	N	Pl|Nom|PxSg3	_	_	_	1-1:11.7,3
-5	ды	ды	CCONJ	CC	_	6	cc	_	_
-6	кармась	кармамс	VERB	V	IV|Ind|Prt1|ScSg3	2	conj	_	1-1:11.7,3
-7	кевереме	кеверемс	VERB	V	TV|Inf|Loc	6	xcomp	_	_
-8	сон	сон	PRON	Pron	Pers|Sg3|Nom	6	nsubj	_	1-1:11.7,3
-9	крута	крута	ADJ	A	Sg|Nom|Indef	10	amod	_	_
-10	крыльцянь	крыльця	NOUN	N	SP|Gen|Indef	11	nmod:poss	_	_
-11	лазтнэнь	лаз	NOUN	N	Pl|Gen|Def	6	obl	_	_
-12	ланга	ланга	ADP	Adp	Po|Prl	11	case	_	_
+5	ды	ды	CCONJ	CC	_	6	cc	_	Gloss=and
+6	кармась	кармамс	VERB	V	IV|Ind|Prt1|ScSg3	2	conj	_	1-1:11.7,3|Gloss=begin
+7	кевереме	кеверемс	VERB	V	TV|Inf|Loc	6	xcomp	_	Gloss=roll
+8	сон	сон	PRON	Pron	Pers|Sg3|Nom	6	aux:subj	_	1-1:11.7,3|Gloss=she
+9	крута	крута	ADJ	A	Sg|Nom|Indef	10	amod	_	Gloss=steep
+10	крыльцянь	крыльця	NOUN	N	SP|Gen|Indef	11	nmod:poss	_	Gloss=porch
+11	лазтнэнь	лаз	NOUN	N	Pl|Gen|Def	6	obl	_	Gloss=board
+12	ланга	ланга	ADP	Adp	Po|Prl	11	case	_	Gloss=on
 13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 #sent_id = partID1:chapID1:paragID11:sentID8: pgNo="6"
 # text = Истя новольсь кустем пес.
-1	Истя	истя	ADV	Adv	Manner	2	advmod	_	_
-2	новольсь	новолемс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3
+1	Истя	истя	ADV	Adv	Manner	2	advmod	_	Gloss=in.this.way
+2	новольсь	новолемс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3|Gloss=come.down
 3	кустем	кузтем	NOUN	N	Sg|Nom|Indef	4	compound	_	_
-4	пес	пе	NOUN	N	Sem/Plc|SP|Ill|Indef	2	obl	_	_
+4	пес	пе	NOUN	N	Sem/Plc|SP|Ill|Indef	2	obl	_	Gloss=bottom.of.the.stairs
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 #sent_id = partID1:chapID1:paragID11:sentID9: pgNo="6"
 # text = Таго стясь пильге лангс.
-1	Таго	таго	ADV	Adv	Temp	2	advmod	_	_
-2	стясь	стямс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3
-3	пильге	пильге	NOUN	N	Sg|Nom|Indef	2	obl	_	_
-4	лангс	ланго	NOUN	N	SP|Ill|Indef	3	case	_	_
+1	Таго	таго	ADV	Adv	Temp	2	advmod	_	Gloss=again
+2	стясь	стямс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3|Gloss=get.up
+3	пильге	пильге	NOUN	N	Sg|Nom|Indef	2	obl	_	Gloss=foot
+4	лангс	ланго	NOUN	N	SP|Ill|Indef	3	case	_	Gloss=onto
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 #sent_id = partID1:chapID1:paragID11:sentID10: pgNo="6"
 # text = Ранкстась казямосто ды верьга вайгельть:
-1	Ранкстась	рангстамс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3
-2	казямосто	казямосто	ADV	Adv	Manner|Ela	1	advmod	_	_
-3	ды	ды	CCONJ	CC	_	5	cc	_	_
-4	верьга	верьга	ADV	Adv	_	5	fixed	_	_
-5	вайгельть	вайгель	NOUN	N	Pl|Nom|Indef	2	conj	_	_
+1	Ранкстась	рангстамс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	1-1:11.7,3|Gloss=give.a.shout
+2	казямосто	казямосто	ADV	Adv	Manner|Ela	1	advmod	_	Gloss=hoarsely
+3	ды	ды	CCONJ	CC	_	5	cc	_	Gloss=and
+4	верьга	верьга	ADV	Adv	_	5	fixed	_	Gloss=raised
+5	вайгельть	вайгель	NOUN	N	Pl|Nom|Indef	2	conj	_	Gloss=voice
 6	:	:	PUNCT	CLB	_	1	punct	_	_
 
 #sent_id = partID1:chapID1:paragID12:sentID1: pgNo="6"
@@ -397,9 +401,9 @@
 #sent_id = partID1:chapID1:paragID13:sentID1: pgNo="6"
 # text = Ульцянть кувалт молицятнень эйстэ веенст лоткасть, омбонст мурдасть, колмоценстнэ пачкодсть малазонзо.
 # text[eng] = Of those going along the street, one group stopped, another turned around, and a third approached her.
-1	Ульцянть	ульця	NOUN	N	Sem/Plc|Sg|Gen|Def	3	obl	_	_
-2	кувалт	кувалт	ADP	Adp	Po	1	case	_	_
-3	молицятнень	молемс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Pl|Gen|Def	6	obl	_	_
+1	Ульцянть	ульця	NOUN	N	Sem/Plc|Sg|Gen|Def	3	obl	_	Gloss=street
+2	кувалт	кувалт	ADP	Adp	Po	1	case	_	Gloss=along
+3	молицятнень	молемс	VERB	V	IV|Der/NomAg|N|Pl|Gen|Def	6	obl	_	_
 4	эйстэ	эйстэ	ADP	Adp	Po|Ela	3	case	_	_
 5	веенст	веенст	NUM	Num	Card|Coll	6	nsubj	_	_
 6	лоткасть	лоткамс	VERB	V	IV|Ind|Prt1|ScPl3	0	root	_	1-1:13.1,5
@@ -447,7 +451,7 @@
 1	—	—	PUNCT	_	_	3	punct	_	_
 2	А	а	PART	Pcle	Neg	3	advmod:neg	_	_
 3	чумо	чумо	NOUN	N	Sg|Nom|Indef|Clt/Cop|Prs|ScSg3	0	root	_	1-1:15.1,2
-4	сон	сон	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	1-1:15.1,2
+4	сон	сон	PRON	Pron	Pers|Sg3|Nom	3	aux:subj	_	1-1:15.1,2
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	а	а	PART	Pcle	Neg	7	advmod:neg	_	_
 7	чумо	чумо	NOUN	N	Sg|Nom|Indef|Clt/Cop|Prs|ScSg3	3	conj	_	1-1:15.1,2
@@ -583,7 +587,7 @@
 8	мерсь	меремс	VERB	V	IV|Ind|Prt1|ScSg3	5	parataxis	_	1-1:23.1,11
 9	весемень	весеме	PRON	Pron	Qnt|SP|Gen|Indef	11	obj	_	_
 10	истя	истя	ADV	Adv	Manner	11	advmod	_	_
-11	тандавтыцясь	тандавтомс	VERB	V	TV|Der/Ыця|Der/NomAg|N|Sg|Nom|Def	8	nsubj	_	_
+11	тандавтыцясь	тандавтомс	VERB	V	TV|Der/NomAg|N|Sg|Nom|Def	8	nsubj	_	_
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
 #sent_id = partID1:chapID1:paragID23:sentID2: pgNo="6"
@@ -625,7 +629,7 @@
 # text = — Тонгак шумбрат, — отвечась тензэ Якшамкань Урван.
 # text[eng] = How are you too, Urvan Yakshamka replied.
 1	—	—	PUNCT	_	_	3	punct	_	_
-2	Тонгак	тон	PRON	Pron	Pers|Sg2|Nom|Foc/Гак	3	nsubj	_	_
+2	Тонгак	тон	PRON	Pron	Pers|Sg2|Nom|Foc/Гак	3	aux:subj	_	_
 3	шумбрат	шумбра	ADJ	A	Clt/Cop|Prs|ScSg2	0	root	_	_
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	—	—	PUNCT	_	_	6	punct	_	_
@@ -642,7 +646,7 @@
 2	Уля	Уля	PROPN	N	Prop|Sem/Ant_Fem|Sg|Nom|Indef	3	nsubj	_	_
 3	получакшнось	получамс	VERB	V	TV|Der/ОкшнОмс|V|TV|Ind|Prt1|ScSg3	0	root	_	1-1:24.2,2
 4	войнас	война	NOUN	N	SP|Ill|Indef	5	obl	_	_
-5	чавовомадот	чавовомс	VERB	V	IV|Der/ОмА|N|Der/NomAct|N|SP|Abl|PxSg2	7	obl	_	_
+5	чавовомадот	чавовомс	VERB	V	IV|Der/NomAct|N|SP|Abl|PxSg2	7	obl	_	_
 6	раужо	раужо	ADJ	A	Sg|Nom|Indef	7	amod	_	_
 7	куля	куля	NOUN	N	Sg|Nom|Indef	3	obj	_	_
 8	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -779,7 +783,7 @@
 # text[eng] = Why I'm a friend of your brother Listar's from when he was young.
 # CHECKME
 1	Ведь	ведь	PART	Pcle	_	7	advmod	_	_
-2	мон	мон	PRON	Pron	Pers|Sg1|Nom	7	nsubj	_	_
+2	мон	мон	PRON	Pron	Pers|Sg1|Nom	7	aux:subj	_	_
 3	Листар	листар	NOUN	N	Sg|Nom|Indef	6	nmod:poss	_	_
 4	братот	брат	NOUN	N	Sg|Gen|PxSg2	3	flat	_	_
 5	од	од	ADJ	A	Sg|Nom|Indef	6	fixed	_	_
@@ -853,7 +857,7 @@
 2	мирдензэ	мирде	NOUN	N	Sem/Kin_Mal|Sg|Gen|PxSg3	5	nmod:poss	_	1-1:31.1,19|Gloss=husband
 3	кудов	кудо	NOUN	N	Sem/Plc|SP|Lat|Indef	5	obl	_	_
 4	истя	истя	ADV	Adv	Manner	5	advmod	_	_
-5	самось	самс	VERB	V	IV|Der/ОмА|N|Der/NomAct|N|Sg|Nom|Def	6	nsubj	_	_
+5	самось	самс	VERB	V	IV|Der/NomAct|N|Sg|Nom|Def	6	nsubj	_	_
 6	талакавтызе	талакавтомс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	0	root	_	1-1:31.1,5|1-1:31.1,9
 7	ды	ды	CCONJ	CC	_	8	cc	_	_
 8	тандавтызе	тандавтомс	VERB	V	TV|Ind|Prt1|ScSg3|OcSg3	6	conj	_	_
@@ -864,7 +868,7 @@
 # text = Ней сон — Валдаева.
 # text[eng] =
 1	Ней	ней	ADV	Adv	Temp	4	advmod	_	_
-2	сон	сон	PRON	Pron	Pers|Sg3|Nom	4	nsubj	_	1-1:31.1,9
+2	сон	сон	PRON	Pron	Pers|Sg3|Nom	4	aux:subj	_	1-1:31.1,9
 3	—	—	PUNCT	_	_	4	punct	_	_
 4	Валдаева	Валдаев	PROPN	N	Prop|Sem/Sur_Fem|Sg|Nom|Indef	0	root	_	_
 5	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -931,7 +935,7 @@
 1	Мельгаст	мельга	ADP	Adp	Po|Spat|PxPl3	2	obl	_	_
 2	кармасть	кармамс	VERB	V	IV|Ind|Prt1|ScPl3	0	root	_	_
 3	эцеме	эцемс	VERB	V	IV|Inf|Loc	2	xcomp	_	_
-4	промиця	промомс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	5	acl	_	_
+4	промиця	промомс	VERB	V	IV|Der/NomAg|N|Sg|Nom|Indef	5	acl	_	_
 5	ломантне	ломань	NOUN	N	Pl|Nom|Def	2	nsubj	_	_
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -1097,7 +1101,7 @@
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	кода	кода	ADV	Adv	Rel|Manner	16	advmod	_	_
 7	войнасо	война	NOUN	N	SP|Ine|Indef	16	obl	_	_
-8	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	16	_	_	_
+8	сынь	сынь	PRON	Pron	Pers|Pl3|Nom	16	aux:subj	_	_
 9	,	,	PUNCT	CLB	_	8	punct	_	_
 10	зярдо	зярдо	SCONJ	CS	Temp	14	mark	_	_
 11	леднемс	леднемс	VERB	V	TV|Inf	14	csubj	_	_
@@ -1154,7 +1158,7 @@
 5	смусть	смусть	NOUN	N	Sg|Nom|Indef	6	obj	_	_
 6	путозь	путомс	VERB	V	TV|Der/Озь|Ger	2	ccomp	_	_
 7	а	а	PART	Pcle	Neg	8	advmod:neg	_	_
-8	чарькодевиця	чарькодевемс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	9	acl	_	_
+8	чарькодевиця	чарькодевемс	VERB	V	IV|Der/NomAg|N|Sg|Nom|Indef	9	acl	_	_
 9	валтнэс	вал	NOUN	N	Pl|Ill|Def	6	obl	_	_
 10	,	,	PUNCT	CLB	_	6	punct	_	_
 11	спорясть	спорямс	VERB	V	IV|Ind|Prt1|ScPl3	2	conj	_	_
@@ -1169,7 +1173,7 @@
 # text = Миринзе пелькстыцятнень Урван:
 # text[eng] =
 1	Миринзе	мирямс	VERB	V	TV|Ind|Prt1|ScSg3|OcPl3	0	root	_	_
-2	пелькстыцятнень	пелькстамс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Pl|Gen|Def	1	obj	_	_
+2	пелькстыцятнень	пелькстамс	VERB	V	IV|Der/NomAg|N|Pl|Gen|Def	1	obj	_	_
 3	Урван	Урван	PROPN	N	Prop|Sem/Ant_Mal|Sg|Nom|Indef	1	nsubj	_	_
 4	:	:	PUNCT	CLB	_	1	punct	_	_
 
@@ -1186,7 +1190,7 @@
 # text[eng] = The medal, I think, was given to an anonymous, but of course courageous soldier.
 1	Медалесь	медаль	NOUN	N	Sg|Nom|Def	6	nsubj	_	_
 2	,	,	PUNCT	CLB	_	4	punct	_	_
-3	мон	мон	PRON	Pron	Pers|Sg1|Nom	4	nsubj	_	_
+3	мон	мон	PRON	Pron	Pers|Sg1|Nom	4	aux:subj	_	_
 4	арсян	арсемс	Hom1	_	V|IV|Ind|Prs|ScSg1	6	parataxis	_	_
 5	,	,	PUNCT	CLB	_	4	punct	_	_
 6	максозь	максомс	VERB	V	TV|Der/Озь|Ger	0	root	_	_
@@ -1295,14 +1299,14 @@
 9	солдаткась	солдатка	NOUN	N	Sg|Nom|Def	10	nsubj	_	_
 10	каванинзе	каванямс	VERB	V	TV|Ind|Prt1|ScSg3|OcPl3	0	root	_	_
 11	весе	весе	PRON	Pron	Sg|Nom|Indef	11	det	_	_
-12	сынст	сынь	PRON	Pron	Pers|Pl3|Gen	10	obj	_	_
+12	сынст	сынь	PRON	Pron	Pers|Pl3|Gen	10	aux:obj	_	_
 13	винадо	вина	NOUN	N	SP|Abl|Indef	10	obl	_	_
 14	.	.	PUNCT	CLB	_	10	punct	_	_
 
 #sent_id = partID1:chapID1:paragID42:sentID3: pgNo="8"
 # text = Сонсь яла соракалесь апак учо тамашанть эйстэ прясто пильгс, учось — витьксты кияк сонзэ омбоцеде мирденень лисемадонть Елеськанень — ушодови сёвнома ды тюрезевемаяк.
 # text[eng] =
-1	Сонсь	сонсь	PRON	Pron	Refl|Sg3|Nom	3	nsubj	_	_
+1	Сонсь	сонсь	PRON	Pron	Refl|Sg3|Nom	3	aux:subj	_	_
 2	яла	яла	ADV	Adv	Temp	3	advmod	_	_
 3	соракалесь	соракалемс	VERB	V	IV|Ind|Prt1|ScSg3	0	root	_	_
 4	апак	апак	PART	Pcle	Neg	5	advmod:neg	_	_
@@ -1341,7 +1345,7 @@
 8	мирденстэнь	мирде	NOUN	N	Sem/Kin_Mal|SP|Dat|PxSg3	6	obl	_	_
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	зярдо	зярдо	SCONJ	CS	Temp	13	mark	_	_
-11	сон	сон	PRON	Pron	Pers|Sg3|Nom	13	nsubj	_	_
+11	сон	сон	PRON	Pron	Pers|Sg3|Nom	13	aux:subj	_	_
 12	аванть	ава	NOUN	N	Sem/Kin|Sg|Gen|Def	13	obj	_	_
 13	кевкстьсы	кевкстемс	VERB	V	TV|Ind|Prs|ScSg3|OcSg3	6	advcl	_	_
 14	,	,	PUNCT	CLB	_	20	punct	_	_
@@ -1430,7 +1434,7 @@
 #sent_id = partID1:chapID1:paragID43:sentID2: pgNo="8"
 # text = Мон жо, зярс валдо, молян банянь уштомо.
 # text[eng] =
-1	Мон	мон	PRON	Pron	Pers|Sg1|Nom	7	nsubj	_	_
+1	Мон	мон	PRON	Pron	Pers|Sg1|Nom	7	aux:subj	_	_
 2	жо	жо	PART	Pcle	_	1	advmod	_	_
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	зярс	зярс	ADV	Adv	Ill|Temp	5	mark	_	_
@@ -1481,7 +1485,7 @@
 12	вельть	вельть	ADV	Adv	AdA	14	advmod	_	_
 13	а	а	PART	Pcle	Neg	advmod:neg	_	_	_
 14	мазыйстэ	мазыйстэ	Adv	15	advmod	_	_	_	_
-15	тейнемадо	тейнемс	VERB	V	TV|Der/ОмА|N|Der/NomAct|N|SP|Abl|Indef	9	obl	_	_
+15	тейнемадо	тейнемс	VERB	V	TV|Der/NomAct|N|SP|Abl|Indef	9	obl	_	_
 16	,	,	PUNCT	CLB	_	24	punct	_	_
 17	ды	ды	CCONJ	CC	_	24	cc	_	_
 18	«	«	_	_	_	19	punct	_	_
@@ -1666,7 +1670,7 @@
 # text[eng] =
 1	Те	те	DET	Det	Dem|Sg	4	det	_	Gloss=this
 2	седеензэ	седей	NOUN	N	Sg|Gen|PxSg3	3	obj	_	Gloss=heart
-3	апаркстомтыця	апаркстомтомс	VERB	V	TV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	4	acl	_	Gloss=displease
+3	апаркстомтыця	апаркстомтомс	VERB	V	TV|Der/NomAg|N|Sg|Nom|Indef	4	acl	_	Gloss=displease
 4	мельденть	мель	NOUN	N	Sg|Abl|Def	7	obl	_	Gloss=thought
 5	сеск	сеске	ADV	Adv	Ine	7	advmod	_	Gloss=immediately
 6	Уля	Уля	PROPN	N	Sem/Ant_Fem|Prop|Sg|Nom|Indef	7	nsubj	_	_
@@ -1729,7 +1733,7 @@
 13	друк	друк	ADV	Adv	Temp	14	advmod	_	_
 14	неи	неемс	VERB	V	TV|Ind|Prs|ScSg3	6	advcl	_	_
 15	малава	малава	ADV	Adv	Spat	16	obl	_	_
-16	ютыця	ютамс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	17	amod	_	_
+16	ютыця	ютамс	VERB	V	IV|Der/NomAg|N|Sg|Nom|Indef	17	amod	_	_
 17	ломань	ломань	NOUN	N	Sg|Nom|Indef	14	obj	_	_
 18	?	?	PUNCT	CLB	_	2	punct	_	_
 
@@ -1798,7 +1802,7 @@
 4	прок	прок	PART	Pcle	_	7	mark	_	_
 5	сонзэ	сон	PRON	Pron	Pers|Sg3|Gen	7	obl	_	_
 6	ланга	ланга	ADP	Adp	Po|Prl	5	case	_	_
-7	тошкиця	тошкамс	VERB	V	IV|Der/Ыця|Der/NomAg|N|Sg|Nom|Indef	16	amod	_	_
+7	тошкиця	тошкамс	VERB	V	IV|Der/NomAg|N|Sg|Nom|Indef	16	amod	_	_
 8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	тумо	тумо	NOUN	N	Sg|Nom|Indef	10	compound	_	_
 10	тараткень	таратке	NOUN	N	SP|Gen|Indef	16	nmod:poss	_	_
@@ -1819,7 +1823,7 @@
 4	пайстомось	пайстомо	ADJ	A	Der/MWN|N|Sg|Nom|Def	3	nsubj	_	_
 5	:	:	PUNCT	CLB	_	10	punct	_	_
 6	«	«	_	_	_	10	punct	_	_
-7	Моньгак	мон	PRON	Pron	Pers|Sg1|Gen|Foc/Гак	10	obj	_	_
+7	Моньгак	мон	PRON	Pron	Pers|Sg1|Gen|Foc/Гак	10	aux:obj	_	_
 8	истя	истя	ADV	Adv	Manner	9	advmod	_	_
 9	курок	курок	ADV	Adv	Temp	10	advmod	_	_
 10	путсамизь	путомс	VERB	V	TV|Ind|Prs|ScPl3|OcSg1	3	parataxis	_	_
@@ -1838,8 +1842,8 @@
 6	сонзэ	сон	PRON	Pron	Pers|Sg3|Gen	7	nmod	_	_
 7	мельс	мель	NOUN	N	SP|Ill|Indef	5	obl	_	_
 8	таго	таго	ADV	Adv	Temp|Mult	5	advmod	_	_
-9	теке	теке	PRON	Pron	Dem|Sg|Nom|Indef	10	det	_	_
-10	тамашась	тамаша	NOUN	N	Sg|Nom|Def	5	nsubj	_	_
+9	теке	теке	PRON	Pron	Dem|Sg|Nom|Indef	10	det	_	Gloss=the.same
+10	тамашась	тамаша	NOUN	N	Sg|Nom|Def	5	nsubj	_	Gloss=strange.thing
 11	.	.	PUNCT	CLB	_	5	punct	_	_
 
 #sent_id = partID1:chapID1:paragID49:sentID5: pgNo="9"
@@ -1851,7 +1855,7 @@
 4	Уля	Уля	NOUN	N	N|Sem/Ant_Fem|Prop|Sg|Nom|Indef	7	nsubj	_	_
 5	парс	паро	NOUN	N	SP|Ill|Indef	7	obl	_	_
 6	а	а	PART	Pcle	Neg	7	advmod:neg	_	_
-7	панжи	панжомс	VERB	V	IV|Ind|Prs|ScSg3	0	root	_	_
+7	панжи	панжомс	VERB	V	IV|Ind|Prs|ScSg3	0	root	_	1-1:49.5,4|Gloss=open
 8	?	?	PUNCT	CLB	_	7	punct	_	_
 
 #</text>
