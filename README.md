@@ -19,8 +19,11 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 
 | File | Language | Original | Author | Publication name | Year of Publication |
 |------------|------------|-----------|------------|---------|----------|
+| myv_BryzhinskijMixail_Kirdazht_manu_Chap1_erme_01.erme| Erzya | Erzya | Брыжинский Михаил И. | Кирдажт | 2000 |
 | myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme | Erzya | Erzya | Четвергов Евгений | Велень вайгельть | 1992 |
-
+| myv_DunjashinAlex_Pidsi-palakst_1930_erme_01.erme | Erzya | Erzya | Дуняшин Александр | Пици палакст | 1930 |
+| myv_KutorkinAndrej_LazhnicyaSuraII_1976_Part1-Chap1_erme_01.erme | Erzya | Erzya | Куторкин Андрей Д. | Лажныця Сура II | 1976 |
+| mdf_MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39_erme_01.erme | Moksha | Moksha | Мишанина Валентина | Лиендень очконяса | 1972 |
 
 
 
