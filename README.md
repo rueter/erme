@@ -12,9 +12,12 @@ Adding One chapter from a short story by Mikhail Ivanovich Bryzhinski and one by
 These samples will be further enhanced with glosses and person tracking, i.e. possessor indices as well as subject and object reference in conjugation. The code 1-2:3.4,5 reads: part 1, chapter 2, paragraph 3, sentence 4, token 5.
 
 
-File|Language|Original|Author|Publication name|Year of Publication
+## Sources
+
+|File|Language|Original|Author|Publication name|Year of Publication|
 ____________|____________|___________|____________|_________|__________
-myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme|Erzya|Erzya|Четвергов Евгений|Велень вайгельть|1992
+|myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme|Erzya|Erzya|Четвергов Евгений|Велень вайгельть|1992|
+
 
 
 
