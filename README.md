@@ -14,9 +14,9 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 
 ## Sources
 
-|File|Language|Original|Author|Publication name|Year of Publication|
-____________|____________|___________|____________|_________|__________
-|myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme|Erzya|Erzya|Четвергов Евгений|Велень вайгельть|1992|
+| File | Language | Original | Author | Publication name | Year of Publication |
+|____________|____________|___________|____________|_________|__________|
+| myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme | Erzya | Erzya | Четвергов Евгений | Велень вайгельть | 1992 |
 
 
 
