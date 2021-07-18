@@ -1,5 +1,8 @@
-# erme
-e-resource for Moksha-Erzya etc.: Corpora for language description and resource development
+# Summary
+
+ERME e-resource for Moksha-Erzya etc.: Corpora for language description and resource development
+
+# Introduction
 
 These corpora materials identified by an .erme tag will contain open-source sentences with identifying headers and other metadata similar to the .conllu format used in the Universal Dependencies project. In distinction from UD practices not all sentences will have .conllu annotation in the lines between annotation headers. In addition to conllu annotation, there will be disambiguated and non-disambiguated .cg formating or simply the non-annotated text. 
 
@@ -15,7 +18,7 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 ## Sources
 
 | File | Language | Original | Author | Publication name | Year of Publication |
-|____________|____________|___________|____________|_________|__________|
+|------------|------------|-----------|------------|---------|----------|
 | myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme | Erzya | Erzya | Четвергов Евгений | Велень вайгельть | 1992 |
 
 
